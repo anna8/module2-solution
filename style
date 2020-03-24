@@ -14,55 +14,56 @@ div#container {
   position: relative;
   padding-right: 10px;
   margin-bottom: 10px;
-  margin-right: 10px;
+  margin-right: 5px;
+  margin-top: 10px;
   font-weight: bold;
   background-color: #9e9b9b;
-  float: left;
-
 }
 
 p {
   color: black;
   text-align: left;
   margin-top: 5px;
+  margin-left: 10px;
   font-size: 90%;
   font-weight: normal;
   padding-right: 10px;
 }
 
-
 #item1 {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 73%;
+	width: 25%;
+	margin-left: 78%;
 	margin-right: 0;
 	margin-bottom: 0;
-	margin-top: 0%;
+	margin-top: 0;
 	background-color: #e8c1be;
+	word-wrap: none;
 }
 
 #item2 {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 73%;
+	width: 25%;
+	margin-left: 78%;
 	margin-right: 0;	
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #94261e;
+	word-wrap: none;
 }
 
 #item3 {
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 73%;
+	width: 25%;
+	margin-left: 78%;
 	margin-right: 0;	
 	margin-bottom: 0;
 	margin-top: 0;
 	background-color: #eded77;
-	fill: 
+	word-wrap: none;
 
 }
 
@@ -124,7 +125,6 @@ p {
   {
     float: left;
     border: 3px solid black;
-    padding: 10px;
   }
   .col-md-1 {
     width: 8.33%;
@@ -170,7 +170,6 @@ p {
   {
     float: left;
     border: 3px solid black;
-    padding: 10px;
     
   }
   .col-sm-1 {
