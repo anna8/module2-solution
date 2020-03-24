@@ -67,6 +67,11 @@ p {
 
 }
 
+.tile {
+	clear: right;
+	margin: 15px;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
